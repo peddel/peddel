@@ -22,4 +22,4 @@ Welcome to my GitHub profile! I'm a student specializing in Advanced Embedded Sy
 
 💬 Let's Connect!
 
-    💼 LinkedIn
+    💼 [LinkedIn](https://www.linkedin.com/in/pedro-balija-b294b9305/)
