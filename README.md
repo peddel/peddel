@@ -4,13 +4,11 @@ Welcome to my GitHub profile! I'm a student specializing in Advanced Embedded Sy
 
 🔧 Technologies & Tools
 
-    Languages: C, C++, Python
-    Embedded Platforms: Arduino, Raspberry Pi, FRDM-K64F, ESP32
-    Tools: Git, Visual Studio Code, CMake
-    Protocols: I2C, SPI, UART, CAN
-    Operating Systems: Linux, FreeRTOS, RTEMS
-
-📈 GitHub Stats
+Languages: C, C++, Python
+Embedded Platforms: Arduino, Raspberry Pi, FRDM-K64F, ESP32
+Tools: Git, Visual Studio Code, CMake
+Protocols: I2C, SPI, UART, CAN
+Operating Systems: Linux, FreeRTOS, RTEMS
 
 🌱 What I’m Currently Learning
 
