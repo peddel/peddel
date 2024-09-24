@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a student specializing in Advanced Embedded Sy
 
 🔧 Technologies & Tools
 
-   Languages: C, C++, Python
+	Languages: C, C++, Python
 
    Embedded Platforms: Arduino, Raspberry Pi, FRDM-K64F, ESP32
 
