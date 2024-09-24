@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a student specializing in Advanced Embedded Sy
 
     Languages: C, C++, Python
     Embedded Platforms: Arduino, Raspberry Pi, FRDM-K64F, ESP32
-    Tools: Git, Visual Studio Code, Keil uVision, GNU Make, CMake
+    Tools: Git, Visual Studio Code, CMake
     Protocols: I2C, SPI, UART, CAN
     Operating Systems: Linux, FreeRTOS, RTEMS
 
@@ -14,9 +14,7 @@ Welcome to my GitHub profile! I'm a student specializing in Advanced Embedded Sy
 
 🌱 What I’m Currently Learning
 
-    Real-time operating systems (RTOS) for embedded systems
-    Advanced hardware-software co-design
-    Low-power IoT systems and sensor integration
+   
 
 🚀 Projects 
 
