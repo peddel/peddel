@@ -4,23 +4,26 @@ Welcome to my GitHub profile! I'm a student specializing in Advanced Embedded Sy
 
 🔧 Technologies & Tools
 
-Languages: C, C++, Python
+   Languages: C, C++, Python
 
-Embedded Platforms: Arduino, Raspberry Pi, FRDM-K64F, ESP32
+   Embedded Platforms: Arduino, Raspberry Pi, FRDM-K64F, ESP32
 
-Tools: Git, Visual Studio Code, CMake
+   Tools: Git, Visual Studio Code, CMake
 
-Protocols: I2C, SPI, UART, CAN
+   Protocols: I2C, SPI, UART, CAN
 
-Operating Systems: Linux, FreeRTOS, RTEMS
+   Operating Systems: Linux, FreeRTOS, RTEMS
 
 🌱 What I’m Currently Learning
 
    
 
 
-🚀 Projects 
+🚀 Projects
+
+
+
 
 💬 Let's Connect!
 
- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-balija-b294b9305/)
+    💼 [LinkedIn](https://www.linkedin.com/in/pedro-balija-b294b9305/)
