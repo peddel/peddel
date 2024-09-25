@@ -24,7 +24,7 @@ I’m developing the communication node of an automated greenhouse control syste
 
 ## 🚀 Projects
 
-Client-Server Speedometer System 
+**Client-Server Speedometer System** 
 
 Description:
 
