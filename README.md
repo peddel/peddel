@@ -20,6 +20,14 @@ I’m developing the communication node of an automated greenhouse control syste
 
 🚀 Projects
 
+Client-Server Speedometer System 
+
+Description:
+
+The Client-Server Speedometer System is an interactive application built using the Qt framework that allows users to monitor real-time data such as speed, temperature, and battery level through a client dashboard. The server manages and updates these values, enabling seamless communication between the two using multiple protocols like TCP/IP and CAN2.0B. This project showcases effective client-server architecture, real-time data handling, and user-friendly interface design.
+
+Project Repository: [Speedometer Project](https://github.com/peddel/Speedometer-Project)
+
 
 
 
