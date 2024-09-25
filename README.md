@@ -33,6 +33,3 @@ The Client-Server Speedometer System is an interactive application built using t
 Project Repository: [Speedometer Project](https://github.com/peddel/Speedometer-Project)
 
 
-
-
-💼 [LinkedIn](https://www.linkedin.com/in/pedro-balija-b294b9305/)
