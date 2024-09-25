@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a student specializing in Advanced Embedded Sy
 
 **Protocols:** I2C, SPI, UART, CAN
 
-**Operating Systems:** Linux
+**Operating System:** Linux
 
 
 ## 🌱 What I’m Currently Working On:
